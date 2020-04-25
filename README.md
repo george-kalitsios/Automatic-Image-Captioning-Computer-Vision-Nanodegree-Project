@@ -8,6 +8,9 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 
 ![Test Image 9](https://github.com/george-kalitsios/Project-Automatic-Image-Captioning/blob/master/Images/encoder-decoder.png)
 
+**Concepts : COCO dataset, transfer learning, EncoderCNN/DecoderRNN, LSTMs, feature vectors, word embeddings**
+**Tools : PyTorch, TorchVision, NLTK**
+
 The project will be broken up into four Python notebooks :
 
 **Notebook 0 : Loading and Visualizing the Coco Dataset**
