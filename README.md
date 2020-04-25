@@ -6,11 +6,10 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 
 <br />
 
-**Concepts : COCO dataset, transfer learning, EncoderCNN/DecoderRNN, LSTMs, feature vectors, word embeddings**
-
+**Tools : PyTorch, TorchVision, NLTK**
 <br />
 
-**Tools : PyTorch, TorchVision, NLTK**
+**Concepts : COCO Dataset, Transfer Learning, EncoderCNN/DecoderRNN, LSTMs, Feature Vectors, Word Embeddings**
 
 <br />
 
