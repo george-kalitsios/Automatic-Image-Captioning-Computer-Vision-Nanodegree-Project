@@ -30,11 +30,19 @@ The project will be broken up into four Python notebooks :
 
 **Notebook 0 : Loading and Visualizing the Coco Dataset**
 
+The Dataset notebook initializes the COCO API (the "pycocotools" library) used to access data from the MS COCO (Common Objects in Context) dataset, which is "commonly used to train and benchmark object detection, segmentation, and captioning algorithms."
+
 **Notebook 1 : Setting up the Project and verify the Dataset and the Model**
+
+The Preliminaries notebook uses the pycocotools, torchvision transforms, and NLTK to preprocess the images and the captions for network training. It also explores the EncoderCNN, which is taken pretrained from torchvision.models, the ResNet50 architecture.
 
 **Notebook 2 : Training the CNN-RNN Model to predict the Caption**
 
+In the Training notebook one finds selection of hyperparameter values and EncoderRNN training. The hyperparameter selections are explained.
+
 **Notebook 3 : Validating the model and Do some fun with it**
+
+The Inference notebook contains the testing of the trained networks to generate captions for additional images. No rigorous validation or accuracy measurement was performed, only sample images were generated. See below.
 
 <br />
 
