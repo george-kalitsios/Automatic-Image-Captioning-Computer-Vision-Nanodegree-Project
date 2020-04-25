@@ -14,6 +14,8 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 
 **Notebook 3 : Validating the model and Do some fun with it**
 
+**Generating Image Captions**
+**Here are some predictions from my model.**
 ## Good results
 
 ## Not so good results
