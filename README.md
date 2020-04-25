@@ -52,7 +52,13 @@ The Inference notebook contains the testing of the trained networks to generate 
 
 ## Good results
 
+![Test Image 6](https://github.com/george-kalitsios/Project-Automatic-Image-Captioning/blob/master/Images/results.png)
+
+
 ## Not so good results
+
+![Test Image 10](https://github.com/george-kalitsios/Project-Automatic-Image-Captioning/blob/master/Images/negativeresults.png)
+
 
 The Udacity repository for this project: [Project: Automatic Image Captioning](https://github.com/udacity/CVND---Image-Captioning-Project). 
 
