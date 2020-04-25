@@ -26,6 +26,10 @@ The left half of the diagram depicts the "EncoderCNN", which encodes the critica
 <br />
 <br />
 
+The Udacity repository for this project: [Project: Automatic Image Captioning](https://github.com/udacity/CVND---Image-Captioning-Project). 
+
+<br />
+
 The project will be broken up into four Python notebooks :
 
 **Notebook 0 : Loading and Visualizing the Coco Dataset**
@@ -46,9 +50,7 @@ The Inference notebook contains the testing of the trained networks to generate 
 
 <br />
 
-**Generating Image Captions**
-
-**Here are some predictions from my model.**
+**Generating Image Captions , Here are some predictions from my model.**
 
 ## Good results
 
@@ -60,5 +62,4 @@ The Inference notebook contains the testing of the trained networks to generate 
 ![Test Image 10](https://github.com/george-kalitsios/Project-Automatic-Image-Captioning/blob/master/Images/negativeresults.png)
 
 
-The Udacity repository for this project: [Project: Automatic Image Captioning](https://github.com/udacity/CVND---Image-Captioning-Project). 
 
