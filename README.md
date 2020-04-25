@@ -2,14 +2,25 @@
 
 <br />
 
-In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model for automatically generating image captions. The network is trained on the [ Microsoft Common Objects in COntext (MS COCO) dataset ](http://cocodataset.org/#home). The image captioning model is displayed below :
+In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model for automatically generating image captions. The network is trained on the [ Microsoft Common Objects in COntext (MS COCO) dataset ](http://cocodataset.org/#home). 
+
+<br />
+
+**Concepts : COCO dataset, transfer learning, EncoderCNN/DecoderRNN, LSTMs, feature vectors, word embeddings**
+
+<br />
+
+**Tools : PyTorch, TorchVision, NLTK**
+
+<br />
+
+The image captioning model is displayed below :
 
 <br />
 
 ![Test Image 9](https://github.com/george-kalitsios/Project-Automatic-Image-Captioning/blob/master/Images/encoder-decoder.png)
 
-**Concepts : COCO dataset, transfer learning, EncoderCNN/DecoderRNN, LSTMs, feature vectors, word embeddings**
-**Tools : PyTorch, TorchVision, NLTK**
+
 
 The project will be broken up into four Python notebooks :
 
