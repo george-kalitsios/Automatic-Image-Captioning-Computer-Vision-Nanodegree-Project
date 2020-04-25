@@ -41,5 +41,5 @@ The project will be broken up into four Python notebooks :
 
 ## Not so good results
 
-The Udacity repository for this project: [Project: Automatic Image Captioning](https://github.com/udacity/CVND---Image-Captioning-Project
+The Udacity repository for this project: [Project: Automatic Image Captioning](https://github.com/udacity/CVND---Image-Captioning-Project). 
 
