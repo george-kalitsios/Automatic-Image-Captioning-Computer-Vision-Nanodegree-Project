@@ -5,7 +5,6 @@
 In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model for automatically generating image captions. The network is trained on the [ Microsoft Common Objects in COntext (MS COCO) dataset ](http://cocodataset.org/#home). 
 
 <br />
-
 **Tools : PyTorch, TorchVision, NLTK**
 <br />
 
@@ -49,8 +48,9 @@ In the Training notebook one finds selection of hyperparameter values and Encode
 The Inference notebook contains the testing of the trained networks to generate captions for additional images. No rigorous validation or accuracy measurement was performed, only sample images were generated. See below.
 
 <br />
+<br />
 
-**Generating Image Captions , Here are some predictions from my model.**
+**Generating Image Captions , Here are some predictions from my model :**
 
 ## Good results
 
